@@ -1,4 +1,4 @@
-##Tournament Game Generator
+###Tournament Game Generator
 
 - The official ProgrammingExpert solution to the programming project, Tournament Game Generator.
 Running The Code
